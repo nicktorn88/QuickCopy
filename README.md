@@ -4,7 +4,7 @@ QuickCopy is a lightweight Windows desktop app for creating reusable notes that 
 
 It is designed for text you use repeatedly, such as messages, instructions, addresses, templates, commands, or anything else you are tired of typing over and over.
 
-![QuickCopy screenshot](Screenshot%202026-08-12%20115302.png)
+![QuickCopy screenshot](QuickCopySample.png)
 
 ## Features
 
